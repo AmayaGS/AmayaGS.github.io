@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Amaya Gallagher-Syed"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Amaya Gallagher-Syed"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AmayaGS"
+  github           : "AmayaGS"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/amaya-gallaghersyed/"
+  linkedin         : "amaya-gallaghersyed/"
   orcid            : "https://orcid.org/0000-0002-6253-3174"
   pinterest        :
   soundcloud       :
