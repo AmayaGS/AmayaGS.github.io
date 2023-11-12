@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: CV_AmayaGS.pdf
+permalink: /CV
 author_profile: true
 redirect_from:
   - /resume
