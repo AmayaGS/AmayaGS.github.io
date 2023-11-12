@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amaya Gallagher Syed"
   avatar           : "profile.png"
-  bio              : "My work focuses on multi-omic data integration, histopathology imaging and deep learning fusion models applied to autoimmune diseases."
+  bio              : "My work focuses on multi-omic data integration, histopathology imaging and deep learning models applied to autoimmune diseases."
   location         : "London, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "amaya-gallaghersyed/"
-  orcid            : "https://orcid.org/0000-0002-6253-3174"
+  orcid            : #"https://orcid.org/0000-0002-6253-3174"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
