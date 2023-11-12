@@ -4,6 +4,6 @@ collection: teaching
 type: "Module"
 permalink: /teaching/2022-TA-statistics
 venue: "School of Engineering and Computer Sciences, Queen Mary University of London"
-date: 2018-03-15
+date: 2022-08-30
 location: "London, UK"
 ---
