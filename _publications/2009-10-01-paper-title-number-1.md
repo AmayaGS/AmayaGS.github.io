@@ -11,7 +11,8 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 
 Recommended citation: 
 
-```@misc{gallaghersyed2023automated,
+```
+@misc{gallaghersyed2023automated,
       title={Automated segmentation of rheumatoid arthritis immunohistochemistry stained synovial tissue}, 
       author={Amaya Gallagher-Syed and Abbas Khan and Felice Rivellese and Costantino Pitzalis and Myles J. Lewis and Gregory Slabaugh and Michael R. Barnes},
       year={2023},
