@@ -1,5 +1,5 @@
 ---
-title: "TA - Introduction to Plant Physiology "
+title: "Teaching Assistant - Introduction to Plant Physiology "
 collection: teaching
 type: "Module"
 permalink: /teaching/2018-TA-plant-physiology
