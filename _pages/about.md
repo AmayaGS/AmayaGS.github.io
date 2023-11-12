@@ -10,5 +10,5 @@ redirect_from:
 
 My research interest lays in developing deep learning strategies adapted to integrating diverse forms of biomedical data, such as imaging, "multi-omics" and clinical patient records. I focus on Graph Neural Network approaches, seeking to leverage their flexibility to help identify patient sub groups and define areas of therapeutic. I also have a particular interest in immune mediated inflammatory diseases (IMIDs), such as rheumatoid arthritis, psoriasis, lupus, and Sjögren's syndrome.
 
-<embed src="https://AmayaGS.github.io/Qq7YzZooTLazAryyg9jcIQ.jpg" width="60%" />
+<embed src="https://AmayaGS.github.io/Qq7YzZooTLazAryyg9jcIQ.jpg" width="100%" />
 
