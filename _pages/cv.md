@@ -7,4 +7,4 @@ redirect_from:
   - /CV_AmayaGS.pdf
 ---
 
-<embed src="https://github.com/AmayaGS/AmayaGS.github.io/CV_AmayaGS.pdf" type="application/pdf" width="100%" />
+<embed src="https://AmayaGS.github.io/CV_AmayaGS.pdf" type="application/pdf" width="100%" />
