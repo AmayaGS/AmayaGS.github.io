@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-09-13-ihc-segmentation-of-synovial-tissue
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-09-13
-venue: '27th Conference on Medical Image Understanding and Analysis 2023'
+venue: '27th Conference on Medical Image Understanding and Analysis'
 paperurl: 'https://arxiv.org/abs/2309.07255.pdf'
 citation: 'Gallagher-Syed, A., Khan, A., Rivellese, F., Pitzalis, C., Lewis, M.J., Slabaugh, G. and Barnes, M.R., 2023. Automated segmentation of rheumatoid arthritis immunohistochemistry stained synovial tissue. arXiv preprint arXiv:2309.07255.'
 
