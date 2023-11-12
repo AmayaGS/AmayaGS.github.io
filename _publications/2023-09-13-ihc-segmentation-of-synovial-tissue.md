@@ -2,7 +2,7 @@
 title: "Automated segmentation of rheumatoid arthritis immunohistochemistry stained synovial tissue"
 collection: publications
 permalink: /publication/2023-09-13-ihc-segmentation-of-synovial-tissue
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We train a UNET on a hand-curated, heterogeneous real-world multi-centre clinical dataset R4RA, which contains multiple types of IHC staining. The model obtains a DICE score of 0.865 and successfully segments different types of IHC staining, as well as dealing with variance in colours, intensity and common WSIs artefacts from the different clinical centres.'
 date: 2023-09-13
 venue: '27th Conference on Medical Image Understanding and Analysis'
 paperurl: 'https://arxiv.org/abs/2309.07255.pdf'
