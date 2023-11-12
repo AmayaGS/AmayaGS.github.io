@@ -8,4 +8,4 @@ date: 2018-03-15
 location: "Buenos Aires, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Plant anatomy, cytology, life cycles, physiology and taxonomy.
