@@ -11,9 +11,9 @@ title                    : "Amaya Gallagher-Syed"
 title_separator          : "-"
 name                     : &name "Amaya Gallagher-Syed"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://AmayaGS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "AmayaGS/AmayaGS.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   location         : "London, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=UYDwER0AAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Amaya-Gallagher-Syed"
   uri              :
