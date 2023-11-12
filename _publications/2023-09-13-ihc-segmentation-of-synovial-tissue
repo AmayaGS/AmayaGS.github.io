@@ -5,11 +5,8 @@ permalink: /publication/2023-09-13-ihc-segmentation-of-synovial-tissue
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-09-13
 venue: '27th Conference on Medical Image Understanding and Analysis 2023'
-paperurl: '[https://arxiv.org/abs/2309.07255]'
-citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-
-Recommended citation: 
+paperurl: '[https://arxiv.org/abs/2309.07255.pdf]'
+citation:
 
 ```
 @misc{gallaghersyed2023automated,
@@ -20,4 +17,8 @@ Recommended citation:
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
-```
+```---
+
+Recommended citation: 
+
+
