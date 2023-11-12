@@ -1,10 +1,10 @@
 ---
-title: "T - Introducción a la Botánica "
+title: "TA - Introduction to Plant Physiology "
 collection: teaching
-type: "Ingeniería Agronómica"
-permalink: 2018-TA-plant-physiology
+type: "Agricultural Engineering"
+permalink: /teaching/2018-TA-plant-physiology
 venue: "Facultad de Agronomia, Universidad de Buenos Aires"
-date: 03/2018 - 02/2019
+date: 2018-03-15
 location: "Buenos Aires, Argentina"
 ---
 
