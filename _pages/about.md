@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student at the [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) of Queen Mary University of London. I work at the intersection of AI, medicine and biology! My PhD supervisors are Professors Michael Barnes, Myles Lewis and [Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html)
+I'm a third year PhD student at the [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) of Queen Mary University of London. I work at the intersection of AI, medicine and biology! My PhD supervisors are Professors Michael Barnes, Myles Lewis and [Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)
 
 
 ## Research Interests
@@ -24,6 +24,8 @@ My research interest lays in developing deep learning strategies adapted to inte
 * Delighted to have receive Best poster award at the 2024 [WHRI PhD symposium](https://twitter.com/QMULWHRI/status/1752759053711749361). Thanks to all the organisers :heart:
 
 * I'll be at [BMVC23](https://proceedings.bmvc2023.org/789/) in Aberdeen presenting our work on MUSTANG 📜
+
+* I'll be [MIUA23](https://www.abdn.ac.uk/events/conferences/miua2023.php) presenting our work on segmentation of Rheumatoid Arthritis synovial tissue 📜
 
 
 
