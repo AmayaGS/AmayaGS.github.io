@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student at the [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) of Queen Mary University of London. I work at the intersection of AI, medicine and biology! My PhD supervisors are Professors Michael Barnes, Myles Lewis and [Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)
+
+I'm a third year PhD student at the [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) of Queen Mary University of London. I work at the intersection of AI, medicine and biology! My PhD supervisors are Professors [Michael Barnes](https://www.qmul.ac.uk/whri/people/academic-staff/items/barnesmichael.html), [Myles Lewis](https://www.qmul.ac.uk/whri/people/academic-staff/items/lewismyles.html) and [Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)
 
 
 ## Research Interests
