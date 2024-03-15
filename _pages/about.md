@@ -29,4 +29,8 @@ My research interest lays in developing deep learning strategies adapted to inte
 * I'll be at [MIUA23](https://www.abdn.ac.uk/events/conferences/miua2023.php) presenting our work on segmentation of Rheumatoid Arthritis synovial tissue 📜
 
 
+## Funding
 
+* Wellcome Trust fully funded PhD Studentships in Science
+  
+* Wellcome Trust fully funded MRes 
