@@ -26,7 +26,7 @@ My research interest lays in developing deep learning strategies adapted to inte
 
 * I'll be at [BMVC23](https://proceedings.bmvc2023.org/789/) in Aberdeen presenting our work on MUSTANG 📜🐎
 
-* I'll be [MIUA23](https://www.abdn.ac.uk/events/conferences/miua2023.php) presenting our work on segmentation of Rheumatoid Arthritis synovial tissue 📜
+* I'll be at [MIUA23](https://www.abdn.ac.uk/events/conferences/miua2023.php) presenting our work on segmentation of Rheumatoid Arthritis synovial tissue 📜
 
 
 
