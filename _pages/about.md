@@ -17,7 +17,7 @@ My research interest lays in developing deep learning strategies adapted to inte
 
 ## News
 
-* 📢 Come join us on 21st March at our workshop on [Responsible AI](https://sites.google.com/view/responsible-ai)! We have an amazing line-up of speakers and panelists 
+* 📢 Come join us on 21st March at our workshop on [Responsible AI](https://sites.google.com/view/responsible-ai)! We have an amazing line-up of speakers and panelists 🌠
 
 * Check out this featured article on our [MUSTANG](https://www.qmul.ac.uk/deri/research/featured-research-/how-pioneering-artificial-intelligence-research-can-personalise-treatment-of-rheumatoid-arthritis/) pipeline!
 
