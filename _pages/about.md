@@ -14,9 +14,11 @@ I'm a third year PhD student at the [Digital Environment Research Institute (DER
 
 ## Research Interests
 
-My research interest lays in developing deep learning strategies adapted to integrating diverse forms of biomedical data, such as imaging, "multi-omics" and clinical patient records. I focus on Graph Neural Network approaches, seeking to leverage their flexibility to help identify patient sub groups and define areas of therapeutic. I also have a particular interest in immune mediated inflammatory diseases (IMIDs), such as rheumatoid arthritis, psoriasis, lupus, and Sjögren's syndrome.
+My research interest lays in developing deep learning strategies for multi-stain histopathology data and paired transcriptomics. I focus on Graph Neural Network approaches, seeking to leverage their flexibility and abilitity to integrate diverse, high dimensional data. I concentrate on immune mediated inflammatory diseases (IMIDs), such as rheumatoid arthritis and Sjögren's syndrome.
 
 ## News
+
+* 📢 Our work [Going Beyond H&E and Oncology: How Do Histopathology Foundation Models Perform for Multi-stain IHC and Immunology?](https://arxiv.org/abs/2410.21560) was accepted for presentation at the NeurIPS 2024 workshop on [Advancements In Medical Foundation Models](https://aim-fm-24.github.io/NeurIPS/)! Check out the :newspaper: [paper](https://arxiv.org/abs/2410.21560) and :star: [code](https://github.com/AmayaGS/ImmunoHistoBench)
 
 * 📢 Come join us on 21st March at our workshop on [Responsible AI](https://sites.google.com/view/responsible-ai)! We have an amazing line-up of speakers and panelists 🌠
 
