@@ -15,12 +15,12 @@ GitHub repo: [https://github.com/AmayaGS/MUSTANG]
 
 Bibtex citation:
 ```
-@misc{gallaghersyed2023mustang,
-      title={MUSTANG: Multi-Stain Self-Attention Graph Multiple Instance Learning Pipeline for Histopathology Whole Slide Images}, 
-      author={Amaya Gallagher-Syed and Luca Rossi and Felice Rivellese and Costantino Pitzalis and Myles Lewis and Michael Barnes and Gregory Slabaugh},
-      year={2023},
-      eprint={2309.10650},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{Gallagher-Syed_2023_BMVC,
+author    = {Amaya Gallagher-Syed and Luca Rossi and Felice Rivellese and Costantino Pitzalis and Myles Lewis and Michael Barnes and Gregory Slabaugh},
+title     = {Multi-Stain Self-Attention Graph Multiple Instance Learning Pipeline for Histopathology Whole Slide Images},
+booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+publisher = {BMVA},
+year      = {2023},
+url       = {https://papers.bmvc2023.org/0789.pdf}
 }
 ```
