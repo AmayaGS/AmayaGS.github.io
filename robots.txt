@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amayags.github.io/sitemap.xml
+Sitemap: https://AmayaGS.github.io/sitemap.xml
