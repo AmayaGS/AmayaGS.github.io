@@ -9,15 +9,13 @@ last_name: Gallagher-Syed
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I work at the intersection of 💻 AI, 🌱 biology and 💊 healtg!
-  I live and work in hope AI research will help us understand the complex, wonderful world of biology, immunology and pathogenesis ✨ 💫.
+  I work at the intersection of 💻 AI, 🌱 biology and 💊 health!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: histopathology, transcriptomics, deep learning, explainable AI # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 😺 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://AmayaGS.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
