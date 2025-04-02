@@ -108,7 +108,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%61.%72.%73%79%65%64@%71%6D%75%6C.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-github',
@@ -122,7 +122,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Amaya Gallagher-Syed", "_blank");
+          window.open("https://www.linkedin.com/in/amaya-gallaghersyed", "_blank");
         },
       },{
         id: 'social-scholar',
