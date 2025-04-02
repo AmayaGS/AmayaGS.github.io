@@ -1,10 +1,11 @@
-github_users:
-  - AmayaGS
-
-repo_description_lines_max: 2
-
 github_repos:
    - AmayaGS/BioX-CPath
    - aaronwtr/PertEval
    - AmayaGS/ImmunoHistoBench
    - AmayaGS/MUSTANG
+
+
+github_users:
+  - AmayaGS
+
+# repo_description_lines_max: 2
