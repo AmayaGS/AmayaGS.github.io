@@ -9,8 +9,7 @@ profile:
   image: cvfoto10.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>67-75 New Rd</p>
-    <p>London E1 1HH</p>
+    <p>67-75 New Rd, E1 1HH</p>
     <p>London, UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
