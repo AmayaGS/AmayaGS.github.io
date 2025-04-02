@@ -30,4 +30,4 @@ I'm a final year PhD student at the [Digital Environment Research Institute (DER
 
 ### Research focus
 
-My research focus currently lays in developing biologically aligned, explainable deep learning strategies for multistain histopathology data and transcriptomics of autoimmune disease's. I work in hope AI research will help us understand the complex, wonderful world of biology, immunology and pathogenesis ✨ :dizzy:
+My research focus currently lays in developing biologically aligned, explainable deep learning algorithms for multistain histopathology data and transcriptomics of autoimmune disease's. I work in hope AI research will help us understand the complex, wonderful world of biology, immunology and pathogenesis ✨ :dizzy:
