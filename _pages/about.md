@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a final year PhD student at the [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) of Queen Mary University of London. I work at the intersection of AI, health and biology! My PhD supervisors are Professors [Michael Barnes](https://www.qmul.ac.uk/whri/people/academic-staff/items/barnesmichael.html), [Myles Lewis](https://www.qmul.ac.uk/whri/people/academic-staff/items/lewismyles.html) and [Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)
+I'm a final year PhD student at the [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) of Queen Mary University of London. I work at the intersection of :computer: AI, :seedling: biology and :pill: health!  My PhD supervisors are Professors [Michael Barnes](https://www.qmul.ac.uk/whri/people/academic-staff/items/barnesmichael.html), [Myles Lewis](https://www.qmul.ac.uk/whri/people/academic-staff/items/lewismyles.html) and [Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)
 
-## Research Interests
+### Research focus
 
-My research interest lays in developing deep learning strategies for multi-stain histopathology data and transcriptomics. I focus on Graph Neural Network approaches, seeking to leverage their flexibility and abilitity to integrate diverse, high dimensional data. I concentrate on immune mediated inflammatory diseases (IMIDs), such as rheumatoid arthritis and Sjögren's Disease.
+My research focus currently lays in developing biologically aligned, explainable deep learning strategies for multistain histopathology data and transcriptomics of autoimmune disease's. I work in hope AI research will help us understand the complex, wonderful world of biology, immunology and pathogenesis ✨ :dizzy:
