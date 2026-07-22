@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "Machine Learning × Biology<br>Schmidt AI for Science Fellow · Imperial College London"
 
@@ -29,7 +29,7 @@ I'm currently a **Postdoctoral Research Fellow** jointly at [Queen Mary Universi
 
 I completed my [Wellcome Trust](https://wellcome.org/research-funding/schemes/four-year-phd-programmes-science-closed) PhD at Queen Mary in 2025, advised by Professors [Michael Barnes](https://www.qmul.ac.uk/whri/people/academic-staff/items/barnesmichael.html), [Myles Lewis](https://www.qmul.ac.uk/whri/people/academic-staff/items/lewismyles.html) and [Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/), where I developed explainable deep learning for computational pathology. Earlier I trained in mathematics and computational biology at Queen Mary and the Universidad de Buenos Aires.
 
-### Research interests
+### Research Interests
 
 - **Identifiability and causality** in biological systems
 - **Training and evaluating** single-cell and biological foundation models
