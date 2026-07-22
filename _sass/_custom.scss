@@ -1,0 +1,140 @@
+/*******************************************************************************
+ * Custom overrides layered on top of the al-folio theme.
+ ******************************************************************************/
+
+@use "sass:color";
+
+// -----------------------------------------------------------------------------
+// Typography — Inter, at a slightly larger, more comfortable size
+// -----------------------------------------------------------------------------
+$font-stack: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+body {
+  font-family: $font-stack;
+  font-size: 1.0625rem; // ~17px
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.navbar-brand,
+.nav-link,
+.navbar,
+.category,
+.card-title,
+.desc,
+p,
+li,
+a,
+button,
+input,
+table {
+  font-family: $font-stack;
+}
+
+// -----------------------------------------------------------------------------
+// Justified body text (with hyphenation so the gaps stay tidy)
+// -----------------------------------------------------------------------------
+.post article .clearfix,
+.post article .clearfix p,
+.page article p,
+.post-content p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+// -----------------------------------------------------------------------------
+// About page hero: photo on the left, name / subtitle / links on the right,
+// top-aligned with the photo.
+// -----------------------------------------------------------------------------
+.about-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1.25rem 2rem;
+  margin-bottom: 1.75rem;
+}
+
+.about-hero-photo {
+  flex: 0 0 auto;
+  width: 260px;
+  max-width: 42%;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.about-hero-text {
+  flex: 1 1 320px;
+  min-width: 260px;
+
+  .post-title {
+    font-size: 2rem;
+    line-height: 1.15;
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+  }
+
+  .desc {
+    font-size: 1rem;
+    color: var(--global-text-color-light);
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+}
+
+@media (max-width: 576px) {
+  .about-hero-photo {
+    width: 62%;
+    max-width: 240px;
+  }
+  .about-hero-text .post-title {
+    font-size: 1.7rem;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Pill buttons (GitHub / Hugging Face / Google Scholar)
+// -----------------------------------------------------------------------------
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.about-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.95rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 2rem;
+  color: var(--global-text-color);
+  font-size: 0.95rem;
+  line-height: 1.2;
+  text-decoration: none;
+  transition:
+    background 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease;
+
+  i {
+    font-size: 1.05rem;
+  }
+
+  &:hover {
+    background: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+    color: var(--global-hover-text-color);
+    text-decoration: none;
+  }
+}

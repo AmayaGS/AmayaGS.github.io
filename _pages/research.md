@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: Identifiability and causality in biological systems, and the foundation models we use to study them.
 nav: true
