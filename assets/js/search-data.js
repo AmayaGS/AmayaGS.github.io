@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Explainable, biology-aligned machine learning across computational pathology and single-cell genomics.",
+          description: "Identifiability and causality in biological systems, and the foundation models we use to study them.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -44,7 +44,7 @@ ninja.data = [{
           title: 'Recognised as a Top Reviewer (top 4%) for NeurIPS 2024.',
           description: "",
           section: "News",},{id: "news-biox-cpath-biologically-driven-explainable-diagnostics-for-multistain-ihc-computational-pathology-was-accepted-at-cvpr-2025",
-          title: 'BioX-CPath — biologically-driven, explainable diagnostics for multistain IHC computational pathology — was accepted...',
+          title: 'BioX-CPath, biologically-driven, explainable diagnostics for multistain IHC computational pathology, was accepted at CVPR...',
           description: "",
           section: "News",},{id: "news-perteval-scfm-our-benchmark-for-single-cell-foundation-models-on-perturbation-effect-prediction-was-accepted-at-icml-2025",
           title: 'PertEval-scFM, our benchmark for single-cell foundation models on perturbation-effect prediction, was accepted at...',
@@ -59,13 +59,16 @@ ninja.data = [{
           title: 'Started as a Postdoctoral Research Fellow jointly at Queen Mary University of London...',
           description: "",
           section: "News",},{id: "news-i-was-awarded-my-phd-thesis-explainable-deep-learning-for-multi-stain-and-multimodal-computational-pathology-in-autoimmune-diseases-huge-thanks-to-my-supervisors-and-collaborators",
-          title: 'I was awarded my PhD 🎓 — thesis: Explainable Deep Learning for Multi-Stain...',
+          title: 'I was awarded my PhD 🎓. Thesis: Explainable Deep Learning for Multi-Stain and...',
           description: "",
           section: "News",},{id: "news-our-study-using-machine-learning-to-classify-focus-score-and-diagnose-sjögren-s-disease-from-digitised-salivary-gland-biopsies-is-published-in-the-lancet-rheumatology",
           title: 'Our study using machine learning to classify focus score and diagnose Sjögren’s disease...',
           description: "",
+          section: "News",},{id: "news-recognised-as-an-outstanding-reviewer-for-cvpr-2026",
+          title: 'Recognised as an Outstanding Reviewer for CVPR 2026.',
+          description: "",
           section: "News",},{id: "news-clamp-a-mechanistic-probe-of-regulatory-structure-in-single-cell-foundation-models-under-perturbation-was-accepted-as-a-spotlight-at-the-icml-2026-workshop-on-generative-and-agentic-ai-for-biology",
-          title: 'CLAMP — a mechanistic probe of regulatory structure in single-cell foundation models under...',
+          title: 'CLAMP, a mechanistic probe of regulatory structure in single-cell foundation models under perturbation,...',
           description: "",
           section: "News",},{id: "news-honoured-to-have-been-awarded-an-eric-amp-amp-wendy-schmidt-ai-for-science-fellowship-i-ll-join-imperial-college-london-s-i-x-in-september-2026-to-start-an-independent-research-programme-on-identifiable-representation-learning-and-cross-modal-causal-discovery-for-biology",
           title: 'Honoured to have been awarded an Eric &amp;amp;amp; Wendy Schmidt AI for Science...',
@@ -75,7 +78,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61.%72.%73%79%65%64@%71%6D%75%6C.%61%63.%75%6B", "_blank");
+          window.open("mailto:%61.%67%61%6C%6C%61%67%68%65%72%73%79%65%64@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
