@@ -1,97 +1,121 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Albert Einstein
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Amaya Gallagher-Syed
+    - name: Based in
+      value: London, UK
+    - name: Email
+      value: a.gallaghersyed@gmail.com
+    - name: Research
+      value: Machine learning &amp; computational biology — explainable, biology-aligned models and foundation-model probing across computational pathology and single-cell genomics.
+    - name: Languages
+      value: English, French, Spanish (all native)
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1905
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Federal teaching diploma
-#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#       year: 1900
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Eric &amp; Wendy Schmidt AI for Science Fellow
+      institution: Imperial College London (I-X)
+      year: 2027 (incoming)
+      description:
+        - Independent research programme on identifiable representation learning for biology foundation models, with applications in dynamical systems and cross-modal causal discovery.
+    - title: Postdoctoral Research Fellow
+      institution: Queen Mary University of London · Imperial College London
+      year: 2025 - present
+      description:
+        - Mechanistic probing of single-cell foundation models via differentiable gene regulatory network recovery from CRISPR Perturb-seq data.
+        - Explainable deep learning for cancer survival prediction.
+        - Supported by a Wellcome Trust Early Career Transition award.
+    - title: Wellcome Trust Doctoral Researcher
+      institution: Queen Mary University of London
+      year: 2021 - 2025
+      description:
+        - Developed explainable, multimodal deep learning for computational pathology in autoimmune disease and cancer — spanning graph neural networks, attention-based multiple-instance learning, and image–omics fusion.
+    - title: Teaching Assistant
+      institution: Queen Mary University of London
+      year: 2021 - 2023
+      description:
+        - Statistics for AI and Data Science · Post-Genomics Bioinformatics.
+    - title: Teaching Assistant
+      institution: Universidad de Buenos Aires
+      year: 2018 - 2019
+      description:
+        - Botany &amp; Plant Physiology.
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Science (Wellcome Trust)
+      institution: Queen Mary University of London
+      year: 2020 - 2025
+      description:
+        - "Thesis: Explainable Deep Learning for Multi-Stain and Multimodal Computational Pathology in Autoimmune Diseases."
+        - "Supervisors: M. R. Barnes · M. J. Lewis · G. Slabaugh."
+    - title: MSc in Mathematical Sciences
+      institution: Queen Mary University of London
+      year: 2019 - 2020
+      description:
+        - Distinction.
+        - "Thesis: Machine learning for gene expression data of early rheumatoid arthritis patients to distinguish treatment responders from non-responders."
+    - title: Licentiate in Computational Biology
+      institution: Universidad de Buenos Aires
+      year: 2012 - 2019
+      description:
+        - 8.3/10 (Honours). Seven-year full-time degree spanning biology, chemistry, physics, mathematics, statistics, and programming.
 
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
+- title: Funding &amp; Awards
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Eric &amp; Wendy Schmidt AI for Science Postdoctoral Fellowship (≈ £120k)
+        - Outstanding Reviewer, CVPR 2026
+    - year: 2025
+      items:
+        - Wellcome Trust Early Career Transition Fund (≈ £40k)
+    - year: 2024
+      items:
+        - Top Reviewer (top 4%), NeurIPS 2024
+    - year: 2020
+      items:
+        - Wellcome Trust PhD Studentship in Science (≈ £200k)
 
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
+- title: Invited Talks
+  type: time_table
+  contents:
+    - title: Keynote — LatinX in AI Workshop @ ICML
+      year: 2025
+      description:
+        - "From Buenos Aires to London: how broad scientific foundations shaped my AI research."
+    - title: AI × Bio Conference — Wellcome Connecting Science
+      year: 2025
+      description:
+        - "BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain Computational Pathology."
 
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Machine learning
+      items:
+        - Representation learning, foundation-model probing &amp; benchmarking
+        - Transformers, graph/hypergraph neural networks, multimodal fusion, computer vision
+    - title: Modeling
+      items:
+        - Differentiable programming (implicit differentiation), neural ODEs &amp; dynamical systems
+        - Causal inference from interventional data, gene regulatory network inference
+    - title: Programming &amp; infrastructure
+      items:
+        - Python (PyTorch, PyTorch Geometric/DGL), Scanpy/AnnData, Git
+        - Multi-GPU / distributed training (SLURM, HPC)
+    - title: Biology
+      items:
+        - Single-cell &amp; spatial transcriptomics, CRISPR Perturb-seq
+        - Immunology, systems biology, computational pathology
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Academic Service
+  type: list
+  contents:
+    - "<b>Reviewer:</b> NeurIPS 2026, ECCV 2026, CVPR 2026, ICLR 2026, TMLR, CVPR 2025, ICLR 2025, NeurIPS 2024, MICCAI 2023."
+    - "<b>Open source:</b> contributor to the Graph Structure Learning Benchmark (NeurIPS 2023)."
+    - "<b>Organiser:</b> DERI Lunch &amp; Learn Seminar. Co-organiser: Responsible AI Workshop."

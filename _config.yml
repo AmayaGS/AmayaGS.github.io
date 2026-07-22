@@ -9,13 +9,13 @@ last_name: Gallagher-Syed
 contact_note: >
   You can reach out to me by email or LinkedIn!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I work at the intersection of 💻 AI, 🌱 biology and 💊 health!
+  Amaya Gallagher-Syed — machine learning researcher and computational biologist working at the intersection of 💻 AI and 🧬 biology. Incoming Schmidt AI for Science Fellow, Imperial College London.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: histopathology, transcriptomics, deep learning, explainable AI # add your own keywords or leave empty
+keywords: AI for science, machine learning, computational biology, foundation models, single-cell genomics, computational pathology, explainable AI, causal representation learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 😺 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://AmayaGS.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -122,13 +122,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@your-username/feed
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -635,20 +631,23 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# CV is rendered from structured data in _data/cv.yml (see _layouts/cv.liquid).
+# To switch to the JSON Resume format instead, populate assets/json/resume.json
+# and re-enable the jekyll_get_json import below.
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
 
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - projects
+#   - volunteer
+#   - awards
+#   - certificates
+#   - skills
+#   - languages
+#   - interests
+#   - references
