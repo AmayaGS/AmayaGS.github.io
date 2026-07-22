@@ -8,7 +8,7 @@
     - name: Email
       value: a.gallaghersyed@gmail.com
     - name: Research
-      value: Machine learning &amp; computational biology — explainable, biology-aligned models and foundation-model probing across computational pathology and single-cell genomics.
+      value: Identifiability and causality in biological systems; training and evaluating single-cell foundation models, with roots in explainable computational pathology.
     - name: Languages
       value: English, French, Spanish (all native)
 
@@ -31,7 +31,7 @@
       institution: Queen Mary University of London
       year: 2021 - 2025
       description:
-        - Developed explainable, multimodal deep learning for computational pathology in autoimmune disease and cancer — spanning graph neural networks, attention-based multiple-instance learning, and image–omics fusion.
+        - Developed explainable, multimodal deep learning for computational pathology in autoimmune disease and cancer, spanning graph neural networks, attention-based multiple-instance learning, and image–omics fusion.
     - title: Teaching Assistant
       institution: Queen Mary University of London
       year: 2021 - 2023
@@ -84,11 +84,11 @@
 - title: Invited Talks
   type: time_table
   contents:
-    - title: Keynote — LatinX in AI Workshop @ ICML
+    - title: Keynote, LatinX in AI Workshop @ ICML
       year: 2025
       description:
         - "From Buenos Aires to London: how broad scientific foundations shaped my AI research."
-    - title: AI × Bio Conference — Wellcome Connecting Science
+    - title: AI × Bio Conference, Wellcome Connecting Science
       year: 2025
       description:
         - "BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain Computational Pathology."

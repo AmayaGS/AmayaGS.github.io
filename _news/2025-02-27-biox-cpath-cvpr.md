@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**BioX-CPath** — biologically-driven, explainable diagnostics for multistain IHC computational pathology — was accepted at [CVPR 2025](https://cvpr.thecvf.com/). ✨
+**BioX-CPath**, biologically-driven, explainable diagnostics for multistain IHC computational pathology, was accepted at [CVPR 2025](https://cvpr.thecvf.com/). ✨
