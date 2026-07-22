@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**CLAMP** — a mechanistic probe of regulatory structure in single-cell foundation models under perturbation — was accepted as a **Spotlight** at the ICML 2026 Workshop on Generative and Agentic AI for Biology. ✨
+**CLAMP**, a mechanistic probe of regulatory structure in single-cell foundation models under perturbation, was accepted as a **Spotlight** at the ICML 2026 Workshop on Generative and Agentic AI for Biology. ✨

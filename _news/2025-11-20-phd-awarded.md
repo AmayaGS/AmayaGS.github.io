@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded my **PhD** 🎓 — thesis: *Explainable Deep Learning for Multi-Stain and Multimodal Computational Pathology in Autoimmune Diseases*. Huge thanks to my supervisors and collaborators!
+I was awarded my **PhD** 🎓. Thesis: *Explainable Deep Learning for Multi-Stain and Multimodal Computational Pathology in Autoimmune Diseases*. Huge thanks to my supervisors and collaborators!
