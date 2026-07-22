@@ -1,2 +1,7 @@
 linkedin.com
 reddit.com
+# University / scholar pages that return 403 to automated link checkers
+# (real, working links — they just block non-browser user agents)
+qmul.ac.uk
+imperial.ac.uk
+scholar.google.com
