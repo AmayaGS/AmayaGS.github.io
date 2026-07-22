@@ -2,9 +2,9 @@
 layout: default
 ---
 <div class="post">
-  <div class="about-hero">
+  <article>
     {% if page.profile %}
-      <div class="about-hero-photo">
+      <div class="about-photo">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -12,7 +12,7 @@ layout: default
           {% else %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) 260px, (min-width: 576px) 42vw, 62vw{% endcapture %}
+          {% capture sizes %}(min-width: {{ site.max_width }}) 230px, (min-width: 576px) 42vw, 45vw{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
@@ -21,37 +21,35 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="about-hero-text">
-      <h1 class="post-title">
-        {% if site.title == 'blank' %}
-          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-          {{ site.last_name }}
-        {% else %}
-          {{ site.title }}
-        {% endif %}
-      </h1>
-      <p class="desc">{{ page.subtitle }}</p>
+    <h1 class="post-title about-name">
+      {% if site.title == 'blank' %}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.last_name }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </h1>
+    <p class="desc">{{ page.subtitle }}</p>
 
-      <div class="about-links">
-        <a class="about-btn" href="https://github.com/{{ site.data.socials.github_username }}" target="_blank" rel="noopener noreferrer">
-          <i class="fa-brands fa-github"></i> GitHub
-        </a>
-        <a class="about-btn" href="https://huggingface.co/AmayaGS" target="_blank" rel="noopener noreferrer">
-          <span aria-hidden="true">🤗</span> Hugging Face
-        </a>
-        <a class="about-btn" href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" target="_blank" rel="noopener noreferrer">
-          <i class="ai ai-google-scholar"></i> Google Scholar
-        </a>
-      </div>
+    <div class="about-links">
+      <a class="about-btn" href="https://github.com/{{ site.data.socials.github_username }}" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-github"></i> GitHub
+      </a>
+      <a class="about-btn" href="https://huggingface.co/AmayaGS" target="_blank" rel="noopener noreferrer">
+        <span aria-hidden="true">🤗</span> Hugging Face
+      </a>
+      <a class="about-btn" href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-google-scholar"></i> Google Scholar
+      </a>
     </div>
-  </div>
 
-  <article>
-    <div class="clearfix">{{ content }}</div>
+    {{ content }}
+
+    <div class="clearfix"></div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
+      <h2 class="about-section">
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
@@ -59,7 +57,7 @@ layout: default
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
+      <h2 class="about-section">
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest Posts</a>
       </h2>
       {% include latest_posts.liquid %}
@@ -67,7 +65,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
+      <h2 class="about-section">
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
