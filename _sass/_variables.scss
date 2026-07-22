@@ -24,6 +24,21 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+// -----------------------------------------------------------------------------
+// Custom palette — "Deep Ink & Fuchsia"
+// deep blue as the calm base, fuchsia as the accent, burgundy on interaction.
+// -----------------------------------------------------------------------------
+$ink-blue: #12173a !default; // deep ink-blue: body text / structure (light mode)
+$ink-blue-soft: #2a3163 !default; // softer ink-blue for secondary text
+$fuchsia-color: #b0176b !default; // primary accent / links (light mode)
+$fuchsia-bright: #ff5cb0 !default; // primary accent / links (dark mode)
+$fuchsia-glow: #ff8ac7 !default; // hover accent (dark mode)
+$burgundy-color: #7a1230 !default; // hover accent / highlight (light mode)
+$navy-bg-dark: #14172b !default; // background (dark mode)
+$navy-card-dark: #1d2140 !default; // cards (dark mode)
+$navy-code-dark: #1b1f38 !default; // code blocks (dark mode)
+$navy-text-light: #d5d8ec !default; // body text (dark mode)
+
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
@@ -34,8 +49,8 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$code-bg-color-light: rgba($fuchsia-color, 0.06);
+$code-bg-color-dark: #{$navy-code-dark} !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";

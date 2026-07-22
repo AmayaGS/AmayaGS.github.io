@@ -1,34 +1,32 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Frequent co-authors — used by jekyll-scholar to normalise and link author names
+# on the publications page. Names not listed here still render normally.
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"slabaugh":
+  - firstname: ["Gregory", "G.", "Greg"]
+    url: https://www.eecs.qmul.ac.uk/~gslabaugh/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"lewis":
+  - firstname: ["Myles J.", "Myles", "M. J.", "M."]
+    url: https://www.qmul.ac.uk/whri/people/academic-staff/items/lewismyles.html
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"barnes":
+  - firstname: ["Michael R.", "Michael", "M. R.", "M."]
+    url: https://www.qmul.ac.uk/whri/people/academic-staff/items/barnesmichael.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"rossi":
+  - firstname: ["Luca", "L."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"pontarini":
+  - firstname: ["Elena", "E."]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"pitzalis":
+  - firstname: ["Costantino", "C."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"bombardieri":
+  - firstname: ["Michele", "M."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"wenteler":
+  - firstname: ["Aaron", "A."]
+
+"alwazzan":
+  - firstname: ["Omnia", "O."]
