@@ -86,6 +86,13 @@ h2.about-section {
   margin-top: 1.5rem;
 }
 
+// Explicit float break used inside the about copy so a paragraph can start
+// full width beneath the photo instead of wrapping beside it.
+.about-clear {
+  clear: both;
+  height: 0;
+}
+
 @media (max-width: 576px) {
   .about-photo {
     width: 46%;

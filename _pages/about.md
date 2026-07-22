@@ -25,6 +25,8 @@ latest_posts:
 
 I'm a machine learning researcher and computational biologist. My work centres on **identifiability and causality in biological systems**: how to build, train and evaluate foundation models of the cell so that they capture genuine biological structure rather than surface correlations, and how to make their predictions interpretable and trustworthy for biologists.
 
+<div class="about-clear"></div>
+
 I'm currently a **Postdoctoral Research Fellow** jointly at [Queen Mary University of London](https://www.qmul.ac.uk/deri/) and [Imperial College London](https://www.imperial.ac.uk/), supported by a Wellcome Trust Early Career Transition award. In **September 2026** I'll join Imperial's [I-X](https://ix.imperial.ac.uk/) as an **[Eric and Wendy Schmidt AI for Science Fellow](https://www.schmidtsciences.org/)**, where I'll lead an independent research programme on identifiable representation learning and cross-modal causal discovery for biology.
 
 I completed my [Wellcome Trust](https://wellcome.org/research-funding/schemes/four-year-phd-programmes-science-closed) PhD at Queen Mary in 2025, advised by Professors [Michael Barnes](https://scholar.google.co.uk/citations?user=PemOdvoAAAAJ&hl=en), [Myles Lewis](https://scholar.google.com/citations?user=yQmmMP4AAAAJ&hl=en) and [Greg Slabaugh](https://scholar.google.com/citations?user=oUK2gu8AAAAJ&hl=en), where I developed explainable deep learning for computational pathology. Earlier I trained in mathematics and computational biology at Queen Mary and the Universidad de Buenos Aires.
